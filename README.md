@@ -26,3 +26,7 @@
 ### 3) Send Request
 
 <p>Build the Extra Feature Component What do you think Have Fun 🤩🤩!!!</p>
+
+## LICENSE
+
+[LICENSE](LICENSE)
